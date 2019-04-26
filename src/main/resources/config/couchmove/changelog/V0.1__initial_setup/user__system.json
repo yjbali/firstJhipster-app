@@ -1,0 +1,13 @@
+{
+    "login": "system",
+
+    "first_name": "System",
+    "last_name": "System",
+    "email": "system@localhost",
+    "activated": true,
+    "lang_key": "en",
+    "created_by": "system",
+    "last_modified_by": "system",
+    "authorities": ["ROLE_USER", "ROLE_ADMIN"],
+    "_class": "io.github.jhipster.application.domain.User"
+}
